@@ -1,0 +1,9 @@
+COL U U U U U U U U U U U U U U U	COL U U U U U U U U U U U U U U U	1
+COL U U U U U U U U U U U U U U U	COL yr yr Undergrad 4 Undergrad 2 yr Undergrad yr Undergrad Undergrad Undergrad yr yr yr	0
+COL U U U U U U U U U U U U U U U	COL 5-INDEPENDENT SO 6-BUS. 5-INDEPENDENT CC CC SR SO CC CC 2-CUNY 3-SUNY 3-SUNY 3-SUNY 9-CHAPTER	0
+COL U U U U U U U U U U U U U U U	COL - 22 25 under 50 50 age - 22 - - - 25 age -	0
+COL U U U U U U U U U U U U U U U	COL Financial_Independent Financial_Dependent Financial_Independent Financial_Independent Financial_Independent Financial_Dependent Financial_Dependent Financial_Independent Financial_Independent Financial_Independent Financial_Independent Financial_Independent Financial_Independent Financial_Independent Financial_Independent	0
+COL yr 4 yr Undergrad Undergrad 2 2 4 2 Grad yr Grad 4 yr yr	COL Undergrad 4 2 yr yr 2 4 Undergrad yr 2 yr 5 yr 2 yr	1
+COL SO 7-BUS. 9-CHAPTER 5-INDEPENDENT 6-BUS. SO 3-SUNY XXII DEGREE 6-BUS. 9-CHAPTER 3-SUNY 6-BUS. 4-SUNY 4-SUNY	COL NON-DEG 5-INDEPENDENT CC 1-CUNY 3-SUNY 9-CHAPTER DEGREE 8-OTHER 2-CUNY DEGREE SR 1-CUNY 4-SUNY 6-BUS. CC	1
+COL age age age - 25 age - age 26 - age 35 50 age 25	COL 36 - 35 22 22 - 25 over 35 50 35 22 36 - age	1
+COL Financial_Independent Financial_Dependent Financial_Dependent Financial_Independent Financial_Independent Financial_Independent Financial_Independent Financial_Dependent Financial_Dependent Financial_Independent Financial_Dependent Financial_Independent Financial_Independent Financial_Independent Financial_Independent	COL Financial_Independent Financial_Dependent Financial_Dependent Financial_Independent Financial_Dependent Financial_Independent Financial_Dependent Financial_Dependent Financial_Independent Financial_Independent Financial_Independent Financial_Dependent Financial_Independent Financial_Independent Financial_Independent	1

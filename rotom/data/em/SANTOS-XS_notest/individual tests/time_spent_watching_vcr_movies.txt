@@ -1,0 +1,5 @@
+COL years 15 years years years 13 years 13 years years years 13 13 15 11	COL 11 15 years 15 years 15 13 years years years years 15 13 years years	1
+COL years 13 years years 15 15 years 13 13 11 years 15 13 years years	COL Play games Watch Play computer VCR Watch Play computer Play games computer movies Play Play	0
+COL 13 11 11 years 13 13 years years 15 15 11 years years years years	COL hours hour hour hours to hours 10 6 4 to 4 hours 10 10 hours	0
+COL Play Play VCR Watch Watch VCR VCR computer computer computer games movies games VCR VCR	COL Play Play VCR movies movies Watch VCR VCR movies VCR Watch Watch computer Watch computer	1
+COL more hours to Not or than more hours hour Less to 1 to to all	COL Not 1 all 1 1 or or all all more than hours all to 1	1

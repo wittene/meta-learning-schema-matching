@@ -1,0 +1,11 @@
+COL Pennzoil Co. Unknown of Pennzoil Inc. Unknown Gas & Co. Gas Natural Sangerfield Co. Unknown	COL & of Milling Corp. Oil Oil Inc. Unknown Lee Oil Unknown Natural Inc. Oil Unknown	1
+"COL Products Oil Unknown & Ontario Oil, Finance al Marmik Unknown Unknown Unknown Gas Co. Unknown"	COL Steuben Allegany Allegany Allegany Cattaraugus Allegany Cattaraugus Cattaraugus Cattaraugus Cattaraugus Allegany Steuben Cattaraugus Cattaraugus Cattaraugus	0
+"COL Sandy Gas Lakes Akron Company, et Unknown Company, Co. NY Unknown Corp. Lane, Oil Unknown"	COL Scio Allegany Tonawanda Wirt House Allegany Allegany Busti Willing Bolivar Alma York Alma Allegany Bolivar	0
+"COL Inc. Unknown Pulaski al Gale, Oil Oil, Power Reservation Company, Unknown Natural Producing Unknown Unknown"	COL Bradner 23 Root 596 Fred J W1 356 Arbogast 62 6 F 59 Watrous Ballard	0
+COL Unknown Gas Unknown Creek Unknown Oil Leiderbach-French State Natural Unknown BDH Inc. Unknown BDH Lee	COL UN UN UL UN UN UM UM UM UN UN UN UM UL UN UL	0
+"COL Gas Development, Oil Unknown Unknown Inc. Unknown Gas Oil Unknown Company, Company, Akron Unknown B"	COL NL DH NL SG NL OD NL NL NL NL GD IW NL GW GW	0
+COL Allegany Allegany Allegany Cattaraugus Erie Cattaraugus Allegany Cattaraugus Cattaraugus Allegany Erie Cattaraugus Allegany Allegany Allegany	COL Allegany Cattaraugus Cattaraugus Jefferson Cattaraugus Erie Cattaraugus Allegany Allegany Allegany Ontario Erie Steuben Tioga Allegany	1
+COL West Bolivar Bolivar Allegany Scio Amherst Allegany Bolivar Allegany Allegany Bolivar Bolivar Genesee Bolivar Alma	COL Montour Allegany Union Wirt Starkey Allegany Allegany Allegany Bolivar Bolivar Genesee Sandy Allegany Adams Bolivar	1
+COL KC 5 214 OR Jakima KC 33 Homestead Hawkins 37 ECLS 18 Dunn KC Homestead	COL Reiman Root Ho Adrian KC U33 U7 L 1 56 KC 53 L F KC	1
+COL UN UL UN UL UN UL UL UL UM UL UN UN UL UL UL	COL UM UM UN UM UL UM UL UN UM UL UM UM UM UN UM	1
+COL NL NL OD NL NL OD GD OD NL OD ST OD DH NL GD	COL NL NL GD DW IW GD GD OD NL NL NL NL NL NL GD	1
